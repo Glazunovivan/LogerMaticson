@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerMaticson", "LoggerMaticson.csproj", "{3577C467-DD01-4E8E-AC61-C46B6173645D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryLoggerMaticson", "..\LibraryLoggerMaticson\LibraryLoggerMaticson.csproj", "{7EC0FA05-6989-4122-AA1B-3DF4292E448B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3577C467-DD01-4E8E-AC61-C46B6173645D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3577C467-DD01-4E8E-AC61-C46B6173645D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3577C467-DD01-4E8E-AC61-C46B6173645D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3577C467-DD01-4E8E-AC61-C46B6173645D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC0FA05-6989-4122-AA1B-3DF4292E448B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC0FA05-6989-4122-AA1B-3DF4292E448B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC0FA05-6989-4122-AA1B-3DF4292E448B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC0FA05-6989-4122-AA1B-3DF4292E448B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC120D1-31F3-42D0-8E9A-CC4A0D14535A}
+	EndGlobalSection
+EndGlobal
